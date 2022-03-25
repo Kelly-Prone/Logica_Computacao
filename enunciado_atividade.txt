@@ -1,0 +1,10 @@
+O uso da tecnologia, de modo geral, tem como foco trazer praticidade, comodidade, segurança e economia.
+
+Pensando nisso, a ideia de automatizar uma residência busca o mesmo objetivo.
+A automação residencial vem ganhando espaço no mercado nos últimos tempos, não pela modernidade e status, mas sim pela questão da segurança e praticidade proporcionada às pessoas, principalmente as pessoas com alguma deficiência física que, por exemplo, não podem se locomover o tempo todo para executar tarefas simples, como abrir uma janela, porta ou acender uma luz.
+
+Para que a automação residencial ocorra são necessários alguns equipamentos - de preferência de baixo custo - como placas de Arduino, que são interligadas aos dispositivos automatizados da residência através de um servidor web. A quantidade e variedade de dispositivos que podem sem instalados em uma residência são enormes. Os dispositivos que o sistema apresenta são as luzes, condicionador de ar, portão eletrônico, sensor e alarme.
+
+Nesse contexto, imagine que você, futuro engenheiro de software, foi contratado para automatizar os circuitos elétricos de uma residência de médio padrão.
+
+Com essas informações passadas a você, antes de iniciar o programação do arduino que será utilizado nessa automação, se faz necessário a execução de algumas operações que você como engenheiro de software deve realizar a fim de simplificar o processo de automação
